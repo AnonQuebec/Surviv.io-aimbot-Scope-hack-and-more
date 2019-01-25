@@ -6,4 +6,7 @@ Download it as a zip file, copy all text in the krunker hack file, go to tampemo
 Updates to this script will be made after every update of Surviv.io
 
 If there is a problem, report it in the issues section.
-I try my hardest to bypass surviv.io code, so please be patient if there is a new update of surviv.io, We will update this cheat a maximum of 5 days from a new surviv.io update.
+I try my hardest to bypass surviv.io code, so please be patient if there is a new update of surviv.io, We will update this cheat a maximum of 5 days from a new surviv.io update
+
+
+VERSION 5.1
