@@ -1,4 +1,4 @@
-# Surviv.io aimbot Scope hack and more!
+# Surviv.io Aimbot,Scope hack and more!
 Surviv.io Aimbot, scope hack fixed 2019
 
 Download it as a zip file, copy all text in the krunker hack file, go to tampemonkey, press on the + button near top right, paste the krunker hack file text, press file and then press save in tampermonkey extension, open surviv.io, Have fun!!!
